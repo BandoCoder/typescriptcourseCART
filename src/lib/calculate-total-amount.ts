@@ -1,4 +1,4 @@
-interface IOrder {
+export interface IOrder {
   calculateTotal(): number;
 }
 
